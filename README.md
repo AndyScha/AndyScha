@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/AndyScha/AndyScha/blob/main/pompo-the-cinephile-typing-fast.gif" width="600" />
+<img align="right" src="https://github.com/AndyScha/AndyScha/blob/main/pompo-the-cinephile-typing-fast.gif" width="550" />
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">a student from Berlin</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/JPX5iWzkrfQAAAAd/akudama-drive-anime.gif">
