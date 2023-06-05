@@ -1,6 +1,9 @@
+<br>
 <img align="right" src="https://github.com/AndyScha/AndyScha/blob/main/pompo-the-cinephile-typing-fast.gif" width="590" />
-<h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">a student from Berlin</h3>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1000&pause=2000&color=AD1FF7&background=FF1B3C00&center=true&vCenter=true&height=37&lines=%F0%9F%91%BDWellcome+to+Andy%C2%B4s+Git%F0%9F%91%BD;a+student+from+Berlin" alt="Typing SVG" /></a>
+
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/JPX5iWzkrfQAAAAd/akudama-drive-anime.gif">
 
 
@@ -12,7 +15,9 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=AndyScha&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<br>
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andreas schaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas schaaf" height="30" width="40" /></a>
