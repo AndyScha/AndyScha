@@ -31,6 +31,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<br>
 [![](https://visitcount.itsvg.in/api?id=AndyScha&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyScha&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
